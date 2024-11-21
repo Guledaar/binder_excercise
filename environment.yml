@@ -1,0 +1,7 @@
+name: test_env
+channels:
+  - defaults
+dependencies:
+  - numpy=1.20.3
+  - python=3.8.8
+prefix: /usr/local/Caskroom/miniconda/base/envs/test_env
